@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">🔹 GNSOLUÇÕES TECNOLOGIA 🔹</h1>
+  <h1 align="center">🔹 GNS Tecnologia e Suporte🔹</h1>
   <p align="center"><b>Analista de Suporte Nível V | Especialista em Infraestrutura | Full Stack Developer</b></p>
   
   <br>
