@@ -1,72 +1,131 @@
-<div align="center">
-  <h1 align="center">🔹 GNS Tecnologia e Suporte🔹</h1>
-  <p align="center"><b>Analista de Suporte Nível V | Especialista em Infraestrutura | Full Stack Developer</b></p>
-  
-  <br>
+<div align="center">🚀 Guilherme Nunes
 
-  <img src="https://komarev.com/ghpvc/?username=gnsolucoesinfo&label=ACESSOS%20AO%20PERFIL&color=0e75b6&style=for-the-badge" />
-  
-  <br><br>
+CEO & Fundador da GN Tecnologia
 
-  <a href="https://gnsolucoesinfo.com/nossos-projetos" target="_blank"><img src="https://img.shields.io/badge/NOSSOS_PROJETOS-000?style=for-the-badge&logo=target&logoColor=white"></a>
-  <a href="https://wa.me/5548996046486" target="_blank"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="[https://www.linkedin.com/in/guilhermenunesdev](https://www.linkedin.com/in/guilherme-nunes-a22325394?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/gnsolucoes.info" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</div>
+Analista de Suporte Nível V • Entusiasta de Tecnologia • Criador de Soluções
 
----
+<img src="https://komarev.com/ghpvc/?username=gnsolucoesinfo&label=VISITAS+NO+PERFIL&color=0e75b6&style=for-the-badge"/><br><br>
 
-## 👨‍💼 Sobre Mim & Atuação Profissional
-CEO na **GN Soluções Tecnologia**, atuando há mais de 10 anos no mercado de TI. Especialista em resolver problemas críticos de infraestrutura e desenvolver soluções SaaS escaláveis. Atendimento em Laguna, Tubarão e todo o Brasil.
+<a href="https://www.gnstecnologia.com.br">
+<img src="https://img.shields.io/badge/GN_TECNOLOGIA-SITE_OFICIAL-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a><a href="https://wa.me/5548996046486">
+<img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a><a href="https://www.instagram.com/gnsolucoes.info">
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a></div>---
 
----
+👋 Sobre Mim
 
-## 🛠️ Stack Tecnológica (O que eu domino)
+Sou apaixonado por tecnologia e pela busca constante por conhecimento.
 
-### 💻 Desenvolvimento de Software & Mobile
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=delphi,php,laravel,nodejs,js,html,css,android,flutter,react,tailwind&theme=dark" />
-</div>
+Minha trajetória começou com manutenção de computadores, notebooks e suporte técnico. Com o tempo fui ampliando meus conhecimentos e atuando em projetos relacionados a infraestrutura, servidores, redes, sistemas de gestão, automação e criação de soluções para empresas.
 
-### 🗄️ Bancos de Dados & Persistência
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&theme=dark" />
-  <img src="https://img.shields.io/badge/Firebird-FF7A00?style=for-the-badge&logo=firebird&logoColor=white" />
-</div>
+Não me considero alguém que sabe tudo.
 
-### 🌐 Sistemas Operacionais & Cloud
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows,nixos,docker,cloudflare,aws,nginx&theme=dark" />
-</div>
+Acredito que a tecnologia evolui todos os dias, e por isso estou sempre estudando, testando novas ideias e buscando formas de resolver problemas reais através da tecnologia.
+
+Meu foco sempre foi entender a necessidade, encontrar a solução e fazer acontecer.
 
 ---
 
-## 🔧 Especialista em Infraestrutura & Hardware (Nível V)
-* **Redes Avançadas:** Configuração e gestão de Mikrotik, Ubiquiti UniFi, VLANs, VPNs e Firewalls.
-* **Servidores:** Administração completa de Windows Server (AD/GPO/DNS) e Linux Server.
-* **Hardware:** Técnico em TI experiente em manutenção de servidores e ativos de rede.
-* **Projetos:** **GNVision** (Segurança Inteligente) e **MegaWeb** (E-commerce SaaS).
+🏢 Sobre a GN Tecnologia
+
+A GN Tecnologia nasceu com o objetivo de ajudar empresas a utilizarem a tecnologia de forma mais eficiente, segura e organizada.
+
+Trabalhamos apoiando empresas em seus desafios tecnológicos, oferecendo suporte, infraestrutura, implantação de soluções e desenvolvimento de projetos voltados para produtividade e crescimento.
 
 ---
 
-## 📂 Portfólio GN Soluções
-Confira nossos sistemas e serviços especializados:
+🛠️ Minha Experiência
 
-<div align="center">
-  <a href="https://gnsolucoesinfo.com/nossos-projetos" target="_blank">
-    <img src="https://img.shields.io/badge/CLIQUE_AQUI_PARA_VER_O_PORTFOLIO_COMPLETO-0E75B6?style=for-the-badge&logo=target&logoColor=white" height="40"/>
-  </a>
-</div>
+💻 Suporte Técnico
+
+- Manutenção de computadores e notebooks
+- Diagnóstico de hardware e software
+- Formatação e instalação de sistemas operacionais
+- Configuração de impressoras e periféricos
+- Atendimento remoto e presencial
+- Suporte para empresas e usuários finais
+
+🖥️ Infraestrutura
+
+- Servidores Linux
+- Servidores Windows
+- Virtualização
+- Proxmox
+- Cloudflare
+- Backup e monitoramento
+- Organização de ambientes corporativos
+
+🌐 Redes
+
+- Mikrotik
+- Estruturação de redes empresariais
+- VPN
+- Compartilhamento de recursos
+- Diagnóstico e resolução de falhas
+
+📊 Sistemas
+
+- ERP Mega
+- Firebird
+- MySQL
+- Integrações entre sistemas
+- Automação de processos
+- APIs
 
 ---
 
-#
+🚀 Projetos
+
+GNVision
+
+Projeto voltado para integração, monitoramento e gerenciamento de ambientes tecnológicos.
+
+MegaWeb
+
+Solução criada para ampliar a mobilidade e o acesso web a sistemas de gestão empresarial.
+
+MegaSync
+
+Ferramenta desenvolvida para sincronização e comunicação entre ambientes.
+
+ProGNS Connect
+
+Plataforma voltada para comunicação, atendimento e integração empresarial.
+
 ---
 
-<div align="center">
-  <br>
-  <p><b>📍 Laguna - SC | Tubarão - SC | Brasil</b></p>
-  <a href="https://gnsolucoesinfo.com">gnsolucoesinfo.com</a> | gnsolucoes.info@gmail.com
-  <br><br>
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=0e75b6&height=30&section=footer" width="100%"/>
+🎯 O Que Me Motiva
+
+✅ Resolver problemas
+
+✅ Aprender novas tecnologias
+
+✅ Criar soluções úteis
+
+✅ Compartilhar conhecimento
+
+✅ Automatizar processos
+
+✅ Evoluir constantemente
+
+✅ Ajudar empresas a crescer através da tecnologia
+
+---
+
+📫 Contato
+
+🌐 www.gnstecnologia.com.br
+
+📧 contato@gnstecnologia.com.br
+
+📱 +55 48 99604-6486
+
+📍 Tubarão • Santa Catarina • Brasil
+
+---
+
+<div align="center">🚀 Transformando desafios em soluções através da tecnologia
+
 </div>
